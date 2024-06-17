@@ -73,6 +73,3 @@ List of technologies and frameworks/libraries used in this project:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README template further to include specific implementation details, screenshots, or any additional information relevant to your project. A well-documented README will help users understand your project and encourage contributions.
