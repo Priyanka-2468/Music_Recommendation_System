@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements a music recommender system  using Natural Language Processing (NLP) techniques. It recommends music based on the content similarity of video descriptions.
+This project implements a music recommender system  using Natural Language Processing (NLP) techniques. It recommends music based on the content similarity of  descriptions.
 
 
 ## Introduction
